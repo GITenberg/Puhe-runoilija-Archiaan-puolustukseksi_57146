@@ -1,5 +1,8 @@
 _repo: Puhe-runoilija-Archiaan-puolustukseksi_57146
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cicero, Marcus Tullius
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/128
     wikipedia: http://en.wikipedia.org/wiki/Cicero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57146#Puhe-runoilija-Archiaan-puolustukseksi
 gutenberg_issued: '2018-05-12'
 gutenberg_type: Text
 identifiers:
